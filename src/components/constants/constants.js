@@ -9,7 +9,7 @@ export const CONTINUE_BUTTON_POSITION_Y = 480;
 export const OFFSET = 75;
 export const WIDTH = 1390;
 export const HEIGHT = 640;
-export const PATH = './src/assets/';
+export const PATH = './dist/assets/';
 export const DECOR = {
   austin: { x: 700, y: 115, name: 'austin.png' },
   bookStand: { x: 840, y: -20, name: 'book-stand.png' },
