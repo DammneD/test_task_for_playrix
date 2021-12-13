@@ -6,8 +6,14 @@ used PixiJS.
 
 [Task link <--](https://drive.google.com/file/d/17Dl4rjo0l2D83olU1yYjUTQuVUeVgrHW/view)
 
-## Dev:
-npm i
-npm start
-npm run build
+** Dev: **
+- `npm i`
+- To managing dependencies
+- `npm start`
+- Runs the app in the development mode.
+
+- `npm run build`
+- Builds the app for production to the build folder.
+
+
 
