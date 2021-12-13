@@ -1,5 +1,3 @@
-export const LOGO_POSITION_X = 40;
-export const LOGO_POSITION_Y = 10;
 export const STAIRS_POSITION_X = 900;
 export const STAIRS_POSITION_Y = 25;
 export const STAIRS_BUTTON_POSITION_Y = 15;
