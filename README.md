@@ -3,7 +3,7 @@
 
 Done with pixiJS.
 
-[Demi link <--](https://dammned.github.io/test_task_for_playrix/)
+[Demo link <--](https://dammned.github.io/test_task_for_playrix/)
 
 [Task link <--](https://drive.google.com/file/d/17Dl4rjo0l2D83olU1yYjUTQuVUeVgrHW/view)
 
