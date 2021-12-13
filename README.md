@@ -15,7 +15,7 @@ Fork and clone this repository, then:
 To managing dependencies.
 
 - `npm start` 
- Runs the app in the development mode.
+ Runs the app in the development mode.(http://localhost:8080/)
 
 - `npm run build` 
 Builds the app for production to the dist folder.
